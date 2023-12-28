@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ritahnabaweesi
-- 👀 I’m interested in Data Science and Analytics, Finance, Banking and human resource analytics. I currently exploring new domains, especially Oil and Gas.
+- 👀 I’m interested in Data Science and Analytics, Finance, Banking and human resource analytics. I currently exploring new domains.
 - 🌱 I’m currently learning Machine Learning at University of Calgary
 - 💞️ I’m looking to collaborate on exciting Data Science projects and machine learning developments
 - 📫 How to reach me on my linkedIn: www.linkedin.com/in/ritah-nabaweesi-72666578
